@@ -1,3 +1,3 @@
 # EnunciadoPruebaSA3
 
-Aún no está disponible el enunciado de la prueba.
+Sigue sin estar disponible el enunciado de la prueba, tal vez más adelante...
