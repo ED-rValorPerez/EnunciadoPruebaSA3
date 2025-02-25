@@ -1,3 +1,6 @@
 # EnunciadoPruebaSA3
 
-Sigue sin estar disponible el enunciado de la prueba, tal vez más adelante...
+El enunciado de la prueba se encuentra en el siguiente repositorio:
+
+https://github.com/ED-rValorPerez/InstruccionesExamenGIT.git
+
